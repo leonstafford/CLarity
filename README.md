@@ -5,7 +5,9 @@ Real-time visualization, monitoring and testing of disjunct services and digital
 ## Use case for CLarity
 
 **As** someone in an organisation with a multitude of applications, services and digital assets,
+
 **I want to** be able to glance at a dashboard and see the health of all systems,
+
 **So that** I can either relax or take action.   
 
 ### CLarity roadmap
