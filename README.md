@@ -30,7 +30,7 @@ I chose Tcl and its Tk GUI extension for several reasons:
  - cross-platform portability, especially OpenBSD
  - lightweight
  - purported benefits in rapid prototyping and automated testing
- - to keep life interesting and learn 
+ - to keep life interesting and learn some useful tools
 
 ### License & Contributing
 
