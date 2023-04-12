@@ -1,0 +1,1 @@
+# Add example resources in a format that can be parsed by the load_resources function
